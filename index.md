@@ -1,6 +1,2 @@
-<div align = "center" > ** Cliff Smay **
-<div align = "center" > Software Engineer 
-
-
-
-
+# Cliff Smay
+## Software Engineer
