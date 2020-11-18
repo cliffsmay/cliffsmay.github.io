@@ -1,8 +1,6 @@
-<p align = "center" >
+<div align = "center" > ## Cliff Smay 
+<div align = "center" > ### Software Engineer 
 
-<a href = "##" > Cliff Smay </a>
-<a href = "###" > Software Engineer </a>
 
-</p>
 
 
