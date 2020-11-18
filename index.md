@@ -3,7 +3,8 @@
 <p align="center">
   <img width="200" height="200" src="Me.jpg"> 
 </p>
-<p>
+<hr>
+<p align="center">
   <a href="about.md">About</a> |
   <a href="#">Academic Projects</a> |
   <a href="#">Resume</a>
