@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html>
 <head>
 <style>
@@ -11,7 +10,9 @@ div {text-align: center;}
 
 <h1>Cliff Smay</h1>
 <h4>Software Engineer</h4>
-<p>This is a paragraph.</p>
+<p align="center">
+  <img width="460" height="300" src="http://www.fillmurray.com/460/300">
+</p>
 <div>This is a div.</div>
 
 </body>
