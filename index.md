@@ -1,5 +1,5 @@
-# Cliff Smay
-### Software Engineer
+<h1 style = "text-align:center" > Cliff Smay </h1><br>
+<h3 style = "text-align:center" > Software Engineer </h3><br>
 
 ## About Me
 
