@@ -1,7 +1,7 @@
 <p align = "center" >
 
-## Cliff Smay
-### Software Engineer
+<a href = "##" > Cliff Smay </a>
+<a href = "###" > Software Engineer </a>
 
 </p>
 
