@@ -11,7 +11,7 @@ div {text-align: center;}
 <h1>Cliff Smay</h1>
 <h4>Software Engineer</h4>
 <p align="center">
-  <img width="460" height="300" src="http://www.fillmurray.com/460/300">
+  <img width="460" height="300" src="Me.jpg">
 </p>
 <div>This is a div.</div>
 
