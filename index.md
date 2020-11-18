@@ -5,7 +5,7 @@
 </p>
 <hr>
 <p align="center">
-  <a href="about.md">About</a> |
+  <a href="https://cliffsmay.github.io/aboutme.html">About</a> |
   <a href="#">Academic Projects</a> |
   <a href="#">Resume</a>
   
