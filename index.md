@@ -3,9 +3,9 @@
 <p align="center">
   <img width="200" height="200" src="Me.jpg">
    
-  <a href="#">Link 1</a> |
-  <a href="#">Link 2</a> |
-  <a href="#">Link 3</a>
+  <a href="about.md">About</a> |
+  <a href="#">Academic Projects</a> |
+  <a href="#">Resume</a>
   <br><br>
   
 </p>
