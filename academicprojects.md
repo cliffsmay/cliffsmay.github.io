@@ -1,8 +1,11 @@
 ## Academic Projects
 
-[Interactive Graphics Application] (https://github.com/cliffsmay/3Dchair)
-August 2020								         						            
-•	The project is an application using C++ and OpenGL that renders a 3-dimensional animated model of a chair with texture and light in 3-dimensional space.
+**Interactive Graphics Application 							         						            
+
+*The project is an application using C++ and OpenGL that renders a 3-dimensional animated model of a chair with 
+texture and light in 3-dimensional space.
+
+[3D Chair]
 
 ###RESTful API Web Service	
 June 2020														
