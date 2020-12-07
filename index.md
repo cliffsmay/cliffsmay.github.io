@@ -7,7 +7,6 @@
 <p align="center">
   <a href="https://cliffsmay.github.io/about.html">About</a> |
   <a href="#">Academic Projects</a> |
-  <a href="#">Resume</a>
   
 </p>
 
