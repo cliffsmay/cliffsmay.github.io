@@ -2,10 +2,10 @@
 
 **Interactive Graphics Application** 							         						            
 
-*The project is an application using C++ and OpenGL that renders a 3-dimensional animated model of a chair with 
-texture and light in 3-dimensional space.*
+The project is an application using C++ and OpenGL that renders a 3-dimensional animated model of a chair with 
+texture and light in 3-dimensional space.
 
-[3D Chair]
+[3D Chair](https://github.com/cliffsmay/#Dchair)
 
 ###RESTful API Web Service	
 June 2020														
