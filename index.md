@@ -5,9 +5,10 @@
 </p>
 <hr>
 <p align="center">
+  <a href="https://cliffsmay.github.io/index.html">Home</a> |
   <a href="https://cliffsmay.github.io/about.html">About</a> |
   <a href="https://cliffsmay.github.io/academicprojects.html">Academic Projects</a> 
-  <a href="https://cliffsmay.github.io/index.html">Home</a> 
+  
 </p>
 
 
