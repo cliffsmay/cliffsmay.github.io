@@ -1,7 +1,7 @@
 <h1 align="center">Cliff Smay</h1>
 <h4 align="center">Professional Portfolio</h4>
 <p align="center">
-  <img width="200" height="200" src="Picture1.png"> 
+  <img width="100" height="100" src="Picture1.png"> 
 </p>
 <hr>
 <p align="center">
