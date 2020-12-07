@@ -29,3 +29,12 @@ organizational specifications.
 The project uses three different scripts in Python to address the specific needs 
 of a rental car business, a grocery store, and an ATM.
 
+
+
+
+<p align="center">
+  <a href="https://cliffsmay.github.io/index.html">Home</a> |
+  <a href="https://cliffsmay.github.io/about.html">About</a> |
+  <a href="https://cliffsmay.github.io/academicprojects.html">Academic Projects</a> 
+  
+</p>
