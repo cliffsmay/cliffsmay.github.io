@@ -1,9 +1,9 @@
 ## Academic Projects
 
-**Interactive Graphics Application 							         						            
+**Interactive Graphics Application** 							         						            
 
 *The project is an application using C++ and OpenGL that renders a 3-dimensional animated model of a chair with 
-texture and light in 3-dimensional space.
+texture and light in 3-dimensional space.*
 
 [3D Chair]
 
